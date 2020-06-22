@@ -20,7 +20,7 @@ import plotly
 from plotly.offline import plot 
 import random
 import yfinance as yf
-import pymongo
+#import pymongo
 import dns
 
 import plotly.express as px
